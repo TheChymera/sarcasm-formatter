@@ -24,7 +24,7 @@ emerge app-backup/sarcasm-formatter
 *If you are running the script from the containing folder (first install method) please make sure you use the `./sarcasm.sh` command instead of just `sarcasm`!*
 
 ```bash
-# sarcasm how do I use this
+$ sarcasm how do I use this
 "hOw dO i uSe ThiS" written to clipboard.
 ```
 
