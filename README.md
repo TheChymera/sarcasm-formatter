@@ -1,6 +1,7 @@
 # sarcasm-formater
 
-The sarcasm formatter provides JS, Python, and Bash support for formatting text sArCaStIcAlLy, meaning with alternating lower and upper-case letters, and provides optional parametrization such as choosing the starting case.
+The sarcasm formatter provides Bash support for formatting text sArCaStIcAlLy, i.e. spongecase, i.e. with alternating lower and upper-case, with some improvements for legibility.
+It also provides automatic clipboard integration.
 
 # Installation
 
